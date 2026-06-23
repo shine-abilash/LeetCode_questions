@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shine-abilash/LeetCode_questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shine-abilash/LeetCode_questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shine-abilash/LeetCode_questions/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/shine-abilash/LeetCode_questions/tree/master/0414-third-maximum-number) |
 | [0821-shortest-distance-to-a-character](https://github.com/shine-abilash/LeetCode_questions/tree/master/0821-shortest-distance-to-a-character) |
 | [0977-squares-of-a-sorted-array](https://github.com/shine-abilash/LeetCode_questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shine-abilash/LeetCode_questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shine-abilash/LeetCode_questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shine-abilash/LeetCode_questions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/shine-abilash/LeetCode_questions/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/shine-abilash/LeetCode_questions/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/shine-abilash/LeetCode_questions/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
