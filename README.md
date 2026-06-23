@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/shine-abilash/LeetCode_questions/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/shine-abilash/LeetCode_questions/tree/master/0389-find-the-difference) |
 | [0821-shortest-distance-to-a-character](https://github.com/shine-abilash/LeetCode_questions/tree/master/0821-shortest-distance-to-a-character) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shine-abilash/LeetCode_questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Sorting
@@ -75,14 +76,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/shine-abilash/LeetCode_questions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shine-abilash/LeetCode_questions/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/shine-abilash/LeetCode_questions/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/shine-abilash/LeetCode_questions/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shine-abilash/LeetCode_questions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shine-abilash/LeetCode_questions/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/shine-abilash/LeetCode_questions/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shine-abilash/LeetCode_questions/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/shine-abilash/LeetCode_questions/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
