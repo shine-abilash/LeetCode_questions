@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shine-abilash/LeetCode_questions/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/shine-abilash/LeetCode_questions/tree/master/0189-rotate-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shine-abilash/LeetCode_questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Binary Search
@@ -94,4 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/shine-abilash/LeetCode_questions/tree/master/0389-find-the-difference) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shine-abilash/LeetCode_questions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shine-abilash/LeetCode_questions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
