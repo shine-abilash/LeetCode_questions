@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shine-abilash/LeetCode_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/shine-abilash/LeetCode_questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shine-abilash/LeetCode_questions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/shine-abilash/LeetCode_questions/tree/master/0268-missing-number) |
 | [0821-shortest-distance-to-a-character](https://github.com/shine-abilash/LeetCode_questions/tree/master/0821-shortest-distance-to-a-character) |
 | [0977-squares-of-a-sorted-array](https://github.com/shine-abilash/LeetCode_questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shine-abilash/LeetCode_questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -61,10 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/shine-abilash/LeetCode_questions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/shine-abilash/LeetCode_questions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/shine-abilash/LeetCode_questions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/shine-abilash/LeetCode_questions/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shine-abilash/LeetCode_questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/shine-abilash/LeetCode_questions/tree/master/0268-missing-number) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shine-abilash/LeetCode_questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
 |  |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shine-abilash/LeetCode_questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shine-abilash/LeetCode_questions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shine-abilash/LeetCode_questions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/shine-abilash/LeetCode_questions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/shine-abilash/LeetCode_questions/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/shine-abilash/LeetCode_questions/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -93,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shine-abilash/LeetCode_questions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/shine-abilash/LeetCode_questions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shine-abilash/LeetCode_questions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/shine-abilash/LeetCode_questions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/shine-abilash/LeetCode_questions/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
@@ -101,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/shine-abilash/LeetCode_questions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/shine-abilash/LeetCode_questions/tree/master/0389-find-the-difference) |
 ## Linked List
 |  |
