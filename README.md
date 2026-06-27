@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/shine-abilash/LeetCode_questions/tree/master/0821-shortest-distance-to-a-character) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shine-abilash/LeetCode_questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shine-abilash/LeetCode_questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/shine-abilash/LeetCode_questions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Sorting
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/shine-abilash/LeetCode_questions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/shine-abilash/LeetCode_questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shine-abilash/LeetCode_questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/shine-abilash/LeetCode_questions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shine-abilash/LeetCode_questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Greedy
 |  |
