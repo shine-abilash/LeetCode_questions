@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shine-abilash/LeetCode_questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shine-abilash/LeetCode_questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shine-abilash/LeetCode_questions/tree/master/0268-missing-number) |
+| [0393-utf-8-validation](https://github.com/shine-abilash/LeetCode_questions/tree/main/0393-utf-8-validation/) | Medium |
 | [0414-third-maximum-number](https://github.com/shine-abilash/LeetCode_questions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/shine-abilash/LeetCode_questions/tree/master/0485-max-consecutive-ones) |
 | [0713-subarray-product-less-than-k](https://github.com/shine-abilash/LeetCode_questions/tree/master/0713-subarray-product-less-than-k) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0268-missing-number](https://github.com/shine-abilash/LeetCode_questions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/shine-abilash/LeetCode_questions/tree/master/0389-find-the-difference) |
+| [0393-utf-8-validation](https://github.com/shine-abilash/LeetCode_questions/tree/main/0393-utf-8-validation/) | Medium |
 | [0980-unique-paths-iii](https://github.com/shine-abilash/LeetCode_questions/tree/main/0980-unique-paths-iii/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
