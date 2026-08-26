@@ -17,4 +17,3 @@ class Solution:
             else:
                 return False
         return remaining==0
-        
