@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shine-abilash/LeetCode_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/shine-abilash/LeetCode_questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shine-abilash/LeetCode_questions/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/shine-abilash/LeetCode_questions/tree/main/0198-house-robber/) | Medium |
 | [0268-missing-number](https://github.com/shine-abilash/LeetCode_questions/tree/master/0268-missing-number) |
 | [0393-utf-8-validation](https://github.com/shine-abilash/LeetCode_questions/tree/main/0393-utf-8-validation/) | Medium |
 | [0414-third-maximum-number](https://github.com/shine-abilash/LeetCode_questions/tree/master/0414-third-maximum-number) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/shine-abilash/LeetCode_questions/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/shine-abilash/LeetCode_questions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shine-abilash/LeetCode_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/shine-abilash/LeetCode_questions/tree/main/0198-house-robber/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
