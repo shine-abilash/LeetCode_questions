@@ -16,4 +16,7 @@ class Solution:
                 remaining=3
             else:
                 return False
-        return remaining==0
+        if remaining==0:
+            return True
+        return False
+        
