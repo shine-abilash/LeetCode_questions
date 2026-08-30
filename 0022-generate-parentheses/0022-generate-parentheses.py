@@ -1,16 +1,14 @@
 class Solution:
     def generateParenthesis(self, n: int) -> List[str]:
         res=[]
-        def dfs(curr,opn,clo):
-            if len(curr)==n*2:
-                res.append(curr)
+        def find(s,opn,clo):
+            if len(s)==n*2:
+                res.append(s)
                 return
             if opn<n:
-                dfs(curr+'(',opn+1,clo)
+                find(s+'(',opn+1,clo)
             if clo<opn:
-                dfs(curr+')',opn,clo+1)
+                find(s+')',opn,clo+1)
 
-        dfs('',0,0)
+        find('',0,0)
         return res
-
-        
