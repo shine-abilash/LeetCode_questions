@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/shine-abilash/LeetCode_questions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/shine-abilash/LeetCode_questions/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/shine-abilash/LeetCode_questions/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/shine-abilash/LeetCode_questions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/shine-abilash/LeetCode_questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shine-abilash/LeetCode_questions/tree/master/0268-missing-number) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/shine-abilash/LeetCode_questions/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/shine-abilash/LeetCode_questions/tree/master/0268-missing-number) |
 | [0713-subarray-product-less-than-k](https://github.com/shine-abilash/LeetCode_questions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/shine-abilash/LeetCode_questions/tree/master/1004-max-consecutive-ones-iii) |
@@ -216,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0052-n-queens-ii](https://github.com/shine-abilash/LeetCode_questions/tree/main/0052-n-queens-ii/) | Hard |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/shine-abilash/LeetCode_questions/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
