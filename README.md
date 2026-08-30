@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/shine-abilash/LeetCode_questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shine-abilash/LeetCode_questions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/shine-abilash/LeetCode_questions/tree/master/0032-longest-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/shine-abilash/LeetCode_questions/tree/main/0058-length-of-last-word/) | Easy |
 | [0079-word-search](https://github.com/shine-abilash/LeetCode_questions/tree/main/0079-word-search/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/shine-abilash/LeetCode_questions/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0242-valid-anagram](https://github.com/shine-abilash/LeetCode_questions/tree/master/0242-valid-anagram) |
