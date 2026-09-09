@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/shine-abilash/LeetCode_questions/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/shine-abilash/LeetCode_questions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shine-abilash/LeetCode_questions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/shine-abilash/LeetCode_questions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/shine-abilash/LeetCode_questions/tree/main/0206-reverse-linked-list/) | Easy |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/shine-abilash/LeetCode_questions/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/shine-abilash/LeetCode_questions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/shine-abilash/LeetCode_questions/tree/main/0206-reverse-linked-list/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
