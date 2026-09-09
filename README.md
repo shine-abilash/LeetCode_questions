@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shine-abilash/LeetCode_questions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/shine-abilash/LeetCode_questions/tree/master/0344-reverse-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/shine-abilash/LeetCode_questions/tree/master/0821-shortest-distance-to-a-character) |
+| [0876-middle-of-the-linked-list](https://github.com/shine-abilash/LeetCode_questions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/shine-abilash/LeetCode_questions/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shine-abilash/LeetCode_questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Dynamic Programming
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/shine-abilash/LeetCode_questions/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shine-abilash/LeetCode_questions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0206-reverse-linked-list](https://github.com/shine-abilash/LeetCode_questions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/shine-abilash/LeetCode_questions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
