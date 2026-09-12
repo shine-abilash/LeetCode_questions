@@ -18,5 +18,5 @@ class Solution:
                 return False
         if remaining==0:
             return True
-        return False
-        
+        else:
+            return False
