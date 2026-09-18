@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/shine-abilash/LeetCode_questions/tree/main/0079-word-search/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/shine-abilash/LeetCode_questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Hamiltonian Path
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -251,4 +252,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/shine-abilash/LeetCode_questions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/shine-abilash/LeetCode_questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/shine-abilash/LeetCode_questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/shine-abilash/LeetCode_questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
