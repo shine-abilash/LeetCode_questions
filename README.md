@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/shine-abilash/LeetCode_questions/tree/main/0079-word-search/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/shine-abilash/LeetCode_questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0733-flood-fill](https://github.com/shine-abilash/LeetCode_questions/tree/main/0733-flood-fill/) | Easy |
+| [0743-network-delay-time](https://github.com/shine-abilash/LeetCode_questions/tree/main/0743-network-delay-time/) | Medium |
 | [0841-keys-and-rooms](https://github.com/shine-abilash/LeetCode_questions/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/shine-abilash/LeetCode_questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Hamiltonian Path
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0733-flood-fill](https://github.com/shine-abilash/LeetCode_questions/tree/main/0733-flood-fill/) | Easy |
+| [0743-network-delay-time](https://github.com/shine-abilash/LeetCode_questions/tree/main/0743-network-delay-time/) | Medium |
 | [0841-keys-and-rooms](https://github.com/shine-abilash/LeetCode_questions/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/shine-abilash/LeetCode_questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Union-Find
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0743-network-delay-time](https://github.com/shine-abilash/LeetCode_questions/tree/main/0743-network-delay-time/) | Medium |
 | [0841-keys-and-rooms](https://github.com/shine-abilash/LeetCode_questions/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/shine-abilash/LeetCode_questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Tree
@@ -281,4 +284,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/shine-abilash/LeetCode_questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/shine-abilash/LeetCode_questions/tree/main/0743-network-delay-time/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/shine-abilash/LeetCode_questions/tree/main/0743-network-delay-time/) | Medium |
+## Dijkstra's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/shine-abilash/LeetCode_questions/tree/main/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->
