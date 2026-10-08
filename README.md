@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/shine-abilash/LeetCode_questions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/shine-abilash/LeetCode_questions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/shine-abilash/LeetCode_questions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0725-split-linked-list-in-parts](https://github.com/shine-abilash/LeetCode_questions/tree/main/0725-split-linked-list-in-parts/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/shine-abilash/LeetCode_questions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
