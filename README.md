@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/shine-abilash/LeetCode_questions/tree/main/0841-keys-and-rooms/) | Medium |
 | [0994-rotting-oranges](https://github.com/shine-abilash/LeetCode_questions/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shine-abilash/LeetCode_questions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1129-shortest-path-with-alternating-colors](https://github.com/shine-abilash/LeetCode_questions/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/shine-abilash/LeetCode_questions/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/shine-abilash/LeetCode_questions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/shine-abilash/LeetCode_questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/shine-abilash/LeetCode_questions/tree/main/0547-number-of-provinces/) | Medium |
 | [0743-network-delay-time](https://github.com/shine-abilash/LeetCode_questions/tree/main/0743-network-delay-time/) | Medium |
 | [0841-keys-and-rooms](https://github.com/shine-abilash/LeetCode_questions/tree/main/0841-keys-and-rooms/) | Medium |
+| [1129-shortest-path-with-alternating-colors](https://github.com/shine-abilash/LeetCode_questions/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/shine-abilash/LeetCode_questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
