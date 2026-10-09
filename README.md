@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/shine-abilash/LeetCode_questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shine-abilash/LeetCode_questions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1219-path-with-maximum-gold](https://github.com/shine-abilash/LeetCode_questions/tree/main/1219-path-with-maximum-gold/) | Medium |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/shine-abilash/LeetCode_questions/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shine-abilash/LeetCode_questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/shine-abilash/LeetCode_questions/tree/master/1480-running-sum-of-1d-array) |
 | [1631-path-with-minimum-effort](https://github.com/shine-abilash/LeetCode_questions/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/shine-abilash/LeetCode_questions/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shine-abilash/LeetCode_questions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1219-path-with-maximum-gold](https://github.com/shine-abilash/LeetCode_questions/tree/main/1219-path-with-maximum-gold/) | Medium |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/shine-abilash/LeetCode_questions/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/shine-abilash/LeetCode_questions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/shine-abilash/LeetCode_questions/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/shine-abilash/LeetCode_questions/tree/main/0841-keys-and-rooms/) | Medium |
 | [0994-rotting-oranges](https://github.com/shine-abilash/LeetCode_questions/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shine-abilash/LeetCode_questions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/shine-abilash/LeetCode_questions/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/shine-abilash/LeetCode_questions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/shine-abilash/LeetCode_questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Union-Find
