@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/shine-abilash/LeetCode_questions/tree/main/0079-word-search/) | Medium |
 | [0088-merge-sorted-array](https://github.com/shine-abilash/LeetCode_questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shine-abilash/LeetCode_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0130-surrounded-regions](https://github.com/shine-abilash/LeetCode_questions/tree/main/0130-surrounded-regions/) | Medium |
 | [0169-majority-element](https://github.com/shine-abilash/LeetCode_questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shine-abilash/LeetCode_questions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/shine-abilash/LeetCode_questions/tree/main/0198-house-robber/) | Medium |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/shine-abilash/LeetCode_questions/tree/main/0079-word-search/) | Medium |
+| [0130-surrounded-regions](https://github.com/shine-abilash/LeetCode_questions/tree/main/0130-surrounded-regions/) | Medium |
 | [0733-flood-fill](https://github.com/shine-abilash/LeetCode_questions/tree/main/0733-flood-fill/) | Easy |
 | [0980-unique-paths-iii](https://github.com/shine-abilash/LeetCode_questions/tree/main/0980-unique-paths-iii/) | Hard |
 | [0994-rotting-oranges](https://github.com/shine-abilash/LeetCode_questions/tree/main/0994-rotting-oranges/) | Medium |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/shine-abilash/LeetCode_questions/tree/main/0079-word-search/) | Medium |
+| [0130-surrounded-regions](https://github.com/shine-abilash/LeetCode_questions/tree/main/0130-surrounded-regions/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/shine-abilash/LeetCode_questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0547-number-of-provinces](https://github.com/shine-abilash/LeetCode_questions/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/shine-abilash/LeetCode_questions/tree/main/0733-flood-fill/) | Easy |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/shine-abilash/LeetCode_questions/tree/main/0130-surrounded-regions/) | Medium |
 | [0547-number-of-provinces](https://github.com/shine-abilash/LeetCode_questions/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/shine-abilash/LeetCode_questions/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/shine-abilash/LeetCode_questions/tree/main/0743-network-delay-time/) | Medium |
@@ -287,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/shine-abilash/LeetCode_questions/tree/main/0130-surrounded-regions/) | Medium |
 | [0547-number-of-provinces](https://github.com/shine-abilash/LeetCode_questions/tree/main/0547-number-of-provinces/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/shine-abilash/LeetCode_questions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/shine-abilash/LeetCode_questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
