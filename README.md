@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/shine-abilash/LeetCode_questions/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/shine-abilash/LeetCode_questions/tree/main/0743-network-delay-time/) | Medium |
 | [0841-keys-and-rooms](https://github.com/shine-abilash/LeetCode_questions/tree/main/0841-keys-and-rooms/) | Medium |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/shine-abilash/LeetCode_questions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/shine-abilash/LeetCode_questions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/shine-abilash/LeetCode_questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Hamiltonian Path
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/shine-abilash/LeetCode_questions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1129-shortest-path-with-alternating-colors](https://github.com/shine-abilash/LeetCode_questions/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/shine-abilash/LeetCode_questions/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/shine-abilash/LeetCode_questions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/shine-abilash/LeetCode_questions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/shine-abilash/LeetCode_questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Union-Find
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/shine-abilash/LeetCode_questions/tree/main/0743-network-delay-time/) | Medium |
 | [0841-keys-and-rooms](https://github.com/shine-abilash/LeetCode_questions/tree/main/0841-keys-and-rooms/) | Medium |
 | [1129-shortest-path-with-alternating-colors](https://github.com/shine-abilash/LeetCode_questions/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/shine-abilash/LeetCode_questions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/shine-abilash/LeetCode_questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
