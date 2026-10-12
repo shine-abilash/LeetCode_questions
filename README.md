@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/shine-abilash/LeetCode_questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0417-pacific-atlantic-water-flow](https://github.com/shine-abilash/LeetCode_questions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0547-number-of-provinces](https://github.com/shine-abilash/LeetCode_questions/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/shine-abilash/LeetCode_questions/tree/main/0684-redundant-connection/) | Medium |
 | [0733-flood-fill](https://github.com/shine-abilash/LeetCode_questions/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/shine-abilash/LeetCode_questions/tree/main/0743-network-delay-time/) | Medium |
 | [0841-keys-and-rooms](https://github.com/shine-abilash/LeetCode_questions/tree/main/0841-keys-and-rooms/) | Medium |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/shine-abilash/LeetCode_questions/tree/main/0130-surrounded-regions/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/shine-abilash/LeetCode_questions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0547-number-of-provinces](https://github.com/shine-abilash/LeetCode_questions/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/shine-abilash/LeetCode_questions/tree/main/0684-redundant-connection/) | Medium |
 | [0733-flood-fill](https://github.com/shine-abilash/LeetCode_questions/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/shine-abilash/LeetCode_questions/tree/main/0743-network-delay-time/) | Medium |
 | [0841-keys-and-rooms](https://github.com/shine-abilash/LeetCode_questions/tree/main/0841-keys-and-rooms/) | Medium |
@@ -302,12 +304,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/shine-abilash/LeetCode_questions/tree/main/0130-surrounded-regions/) | Medium |
 | [0547-number-of-provinces](https://github.com/shine-abilash/LeetCode_questions/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/shine-abilash/LeetCode_questions/tree/main/0684-redundant-connection/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/shine-abilash/LeetCode_questions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/shine-abilash/LeetCode_questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/shine-abilash/LeetCode_questions/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/shine-abilash/LeetCode_questions/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/shine-abilash/LeetCode_questions/tree/main/0743-network-delay-time/) | Medium |
 | [0841-keys-and-rooms](https://github.com/shine-abilash/LeetCode_questions/tree/main/0841-keys-and-rooms/) | Medium |
 | [1129-shortest-path-with-alternating-colors](https://github.com/shine-abilash/LeetCode_questions/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
