@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/shine-abilash/LeetCode_questions/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shine-abilash/LeetCode_questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/shine-abilash/LeetCode_questions/tree/master/1480-running-sum-of-1d-array) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/shine-abilash/LeetCode_questions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/shine-abilash/LeetCode_questions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/shine-abilash/LeetCode_questions/tree/master/1672-richest-customer-wealth) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shine-abilash/LeetCode_questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/shine-abilash/LeetCode_questions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1219-path-with-maximum-gold](https://github.com/shine-abilash/LeetCode_questions/tree/main/1219-path-with-maximum-gold/) | Medium |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/shine-abilash/LeetCode_questions/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
+| [1559-detect-cycles-in-2d-grid](https://github.com/shine-abilash/LeetCode_questions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/shine-abilash/LeetCode_questions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/shine-abilash/LeetCode_questions/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/shine-abilash/LeetCode_questions/tree/main/0743-network-delay-time/) | Medium |
 | [0841-keys-and-rooms](https://github.com/shine-abilash/LeetCode_questions/tree/main/0841-keys-and-rooms/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/shine-abilash/LeetCode_questions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/shine-abilash/LeetCode_questions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/shine-abilash/LeetCode_questions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/shine-abilash/LeetCode_questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Hamiltonian Path
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-shortest-path-with-alternating-colors](https://github.com/shine-abilash/LeetCode_questions/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/shine-abilash/LeetCode_questions/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/shine-abilash/LeetCode_questions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/shine-abilash/LeetCode_questions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/shine-abilash/LeetCode_questions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/shine-abilash/LeetCode_questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Union-Find
@@ -305,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/shine-abilash/LeetCode_questions/tree/main/0130-surrounded-regions/) | Medium |
 | [0547-number-of-provinces](https://github.com/shine-abilash/LeetCode_questions/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/shine-abilash/LeetCode_questions/tree/main/0684-redundant-connection/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/shine-abilash/LeetCode_questions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/shine-abilash/LeetCode_questions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/shine-abilash/LeetCode_questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
