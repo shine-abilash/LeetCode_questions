@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shine-abilash/LeetCode_questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/shine-abilash/LeetCode_questions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shine-abilash/LeetCode_questions/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/shine-abilash/LeetCode_questions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/shine-abilash/LeetCode_questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/shine-abilash/LeetCode_questions/tree/main/0079-word-search/) | Medium |
+| [0094-binary-tree-inorder-traversal](https://github.com/shine-abilash/LeetCode_questions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0130-surrounded-regions](https://github.com/shine-abilash/LeetCode_questions/tree/main/0130-surrounded-regions/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/shine-abilash/LeetCode_questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0210-course-schedule-ii](https://github.com/shine-abilash/LeetCode_questions/tree/main/0210-course-schedule-ii/) | Medium |
@@ -336,10 +338,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shine-abilash/LeetCode_questions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/shine-abilash/LeetCode_questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shine-abilash/LeetCode_questions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/shine-abilash/LeetCode_questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
