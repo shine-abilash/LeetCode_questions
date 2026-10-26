@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/shine-abilash/LeetCode_questions/tree/main/0841-keys-and-rooms/) | Medium |
 | [1129-shortest-path-with-alternating-colors](https://github.com/shine-abilash/LeetCode_questions/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/shine-abilash/LeetCode_questions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/shine-abilash/LeetCode_questions/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/shine-abilash/LeetCode_questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -363,4 +364,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0210-course-schedule-ii](https://github.com/shine-abilash/LeetCode_questions/tree/main/0210-course-schedule-ii/) | Medium |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/shine-abilash/LeetCode_questions/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 <!---LeetCode Topics End-->
