@@ -1,14 +1,28 @@
 class Solution:
     def createGrid(self, m: int, n: int) -> list[str]:
-        arr=[[0]*n for i in range(m)]
-        for i in range(m):
-            arr[i][0]='.'
-        for i in range(n):
-            arr[m-1][i]='.'
-        for i in range(m):
-            for j in range(n):
-                if arr[i][j]!='.':
-                    arr[i][j]='#'
-        s=str(arr)
-        r=[''.join(i) for i in arr]
-        return r
+        arr = [['#'] * n for i in range(m)]
+
+        def dfs(x, y):
+            if x < 0 or y < 0 or x >= m or y >= n:
+                return False
+
+            if arr[x][y] != '#':
+                return False
+
+            arr[x][y] = '.'
+
+            if x == m - 1 and y == n - 1:
+                return True
+
+            if dfs(x + 1, y):
+                return True
+
+            if dfs(x, y + 1):
+                return True
+
+            arr[x][y] = '#'
+            return False
+
+        dfs(0, 0)
+
+        return [''.join(row) for row in arr]
