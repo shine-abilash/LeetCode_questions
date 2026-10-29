@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/shine-abilash/LeetCode_questions/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shine-abilash/LeetCode_questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/shine-abilash/LeetCode_questions/tree/master/1480-running-sum-of-1d-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shine-abilash/LeetCode_questions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shine-abilash/LeetCode_questions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/shine-abilash/LeetCode_questions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/shine-abilash/LeetCode_questions/tree/master/1672-richest-customer-wealth) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shine-abilash/LeetCode_questions/tree/master/0268-missing-number) |
 | [0713-subarray-product-less-than-k](https://github.com/shine-abilash/LeetCode_questions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/shine-abilash/LeetCode_questions/tree/master/1004-max-consecutive-ones-iii) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shine-abilash/LeetCode_questions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/shine-abilash/LeetCode_questions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shine-abilash/LeetCode_questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
