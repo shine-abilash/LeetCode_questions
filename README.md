@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0393-utf-8-validation](https://github.com/shine-abilash/LeetCode_questions/tree/main/0393-utf-8-validation/) | Medium |
 | [0414-third-maximum-number](https://github.com/shine-abilash/LeetCode_questions/tree/master/0414-third-maximum-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shine-abilash/LeetCode_questions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/shine-abilash/LeetCode_questions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/shine-abilash/LeetCode_questions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/shine-abilash/LeetCode_questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/shine-abilash/LeetCode_questions/tree/master/0713-subarray-product-less-than-k) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/shine-abilash/LeetCode_questions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/shine-abilash/LeetCode_questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shine-abilash/LeetCode_questions/tree/master/0268-missing-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/shine-abilash/LeetCode_questions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/shine-abilash/LeetCode_questions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shine-abilash/LeetCode_questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Binary Search
