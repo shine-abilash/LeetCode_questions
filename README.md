@@ -377,4 +377,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/shine-abilash/LeetCode_questions/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0595-big-countries](https://github.com/shine-abilash/LeetCode_questions/tree/main/0595-big-countries/) | Easy |
 <!---LeetCode Topics End-->
