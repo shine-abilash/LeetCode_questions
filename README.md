@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shine-abilash/LeetCode_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shine-abilash/LeetCode_questions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/shine-abilash/LeetCode_questions/tree/master/0042-trapping-rain-water) |
+| [0056-merge-intervals](https://github.com/shine-abilash/LeetCode_questions/tree/main/0056-merge-intervals/) | Medium |
 | [0079-word-search](https://github.com/shine-abilash/LeetCode_questions/tree/main/0079-word-search/) | Medium |
 | [0088-merge-sorted-array](https://github.com/shine-abilash/LeetCode_questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shine-abilash/LeetCode_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/shine-abilash/LeetCode_questions/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/shine-abilash/LeetCode_questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shine-abilash/LeetCode_questions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shine-abilash/LeetCode_questions/tree/master/0242-valid-anagram) |
@@ -382,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0584-find-customer-referee](https://github.com/shine-abilash/LeetCode_questions/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/shine-abilash/LeetCode_questions/tree/main/0595-big-countries/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/shine-abilash/LeetCode_questions/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
