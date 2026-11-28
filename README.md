@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shine-abilash/LeetCode_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shine-abilash/LeetCode_questions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/shine-abilash/LeetCode_questions/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/shine-abilash/LeetCode_questions/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/shine-abilash/LeetCode_questions/tree/main/0056-merge-intervals/) | Medium |
 | [0079-word-search](https://github.com/shine-abilash/LeetCode_questions/tree/main/0079-word-search/) | Medium |
 | [0088-merge-sorted-array](https://github.com/shine-abilash/LeetCode_questions/tree/master/0088-merge-sorted-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/shine-abilash/LeetCode_questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/shine-abilash/LeetCode_questions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shine-abilash/LeetCode_questions/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/shine-abilash/LeetCode_questions/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/shine-abilash/LeetCode_questions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shine-abilash/LeetCode_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/shine-abilash/LeetCode_questions/tree/main/0198-house-robber/) | Medium |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/shine-abilash/LeetCode_questions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/shine-abilash/LeetCode_questions/tree/main/0055-jump-game/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
