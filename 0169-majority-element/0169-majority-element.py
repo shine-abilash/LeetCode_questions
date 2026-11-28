@@ -1,8 +1,9 @@
 from collections import Counter
-import heapq
-
-class Solution(object):
-    def majorityElement(self, nums):
-        count = Counter(nums)
-        a=heapq.nlargest(1, count.keys(), key=count.get)
-        return (a[0])
+class Solution:
+    def majorityElement(self, nums: list[int]) -> int:
+        c=Counter(nums)
+        n=len(nums)//2
+        for i,j in c.items():
+            if j>n:
+                return i
+            
