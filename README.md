@@ -391,4 +391,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/shine-abilash/LeetCode_questions/tree/main/0056-merge-intervals/) | Medium |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/shine-abilash/LeetCode_questions/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
